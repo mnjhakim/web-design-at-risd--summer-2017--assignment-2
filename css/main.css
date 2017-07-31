@@ -86,3 +86,14 @@ h5{
 .review1, .review2{
    padding-bottom:60px;
 }
+
+p{
+   line-height: 1.5em;
+   text-indent: 50px;
+}
+
+ol{
+   list-style: decimal;
+   line-height: 2em;
+   padding:20px 0px 20px 100px;
+}
